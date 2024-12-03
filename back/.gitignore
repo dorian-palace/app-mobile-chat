@@ -1,0 +1,10 @@
+node_modules/
+node_modules
+package.json
+package-lock.json
+README.md
+.DS_Store
+database.js
+index.js
+package.json
+package-lock.json

@@ -1,0 +1,3 @@
+Regroupera tous les middlewares nécessaires à l'application en un seul endroit.
+Il peut y avoir des middlewares pour 
+l'authentification etc...
